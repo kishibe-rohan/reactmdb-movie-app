@@ -1,13 +1,13 @@
 {
   "main.css": "/reactmdb-movie-app/static/css/main.788685e9.chunk.css",
-  "main.js": "/reactmdb-movie-app/static/js/main.14b2ae05.chunk.js",
-  "main.js.map": "/reactmdb-movie-app/static/js/main.14b2ae05.chunk.js.map",
+  "main.js": "/reactmdb-movie-app/static/js/main.d3343481.chunk.js",
+  "main.js.map": "/reactmdb-movie-app/static/js/main.d3343481.chunk.js.map",
   "runtime~main.js": "/reactmdb-movie-app/static/js/runtime~main.be58ccf1.js",
   "runtime~main.js.map": "/reactmdb-movie-app/static/js/runtime~main.be58ccf1.js.map",
   "static/js/2.df6b6195.chunk.js": "/reactmdb-movie-app/static/js/2.df6b6195.chunk.js",
   "static/js/2.df6b6195.chunk.js.map": "/reactmdb-movie-app/static/js/2.df6b6195.chunk.js.map",
   "index.html": "/reactmdb-movie-app/index.html",
-  "precache-manifest.dc4e258c7f335da0dfc281a098cc8301.js": "/reactmdb-movie-app/precache-manifest.dc4e258c7f335da0dfc281a098cc8301.js",
+  "precache-manifest.a25d367dee0c292564d14a9cf35232ea.js": "/reactmdb-movie-app/precache-manifest.a25d367dee0c292564d14a9cf35232ea.js",
   "service-worker.js": "/reactmdb-movie-app/service-worker.js",
   "static/css/main.788685e9.chunk.css.map": "/reactmdb-movie-app/static/css/main.788685e9.chunk.css.map"
 }
